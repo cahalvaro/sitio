@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://aafu.pages.dev/tags/</link>
+    <link>https://cahalvaro.github.io/sitio/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aafu.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cahalvaro.github.io/sitio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>https://aafu.pages.dev/tags/css/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/css/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/css/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>https://aafu.pages.dev/tags/html/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/html/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/html/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/html/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>https://aafu.pages.dev/tags/markdown/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/markdown/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/markdown/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://aafu.pages.dev/tags/themes/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/themes/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/themes/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/themes/</guid>
       <description></description>
     </item>
     <item>
       <title>Laoreet</title>
-      <link>https://aafu.pages.dev/tags/laoreet/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/laoreet/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/laoreet/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/laoreet/</guid>
       <description></description>
     </item>
     <item>
       <title>Mollis Urna</title>
-      <link>https://aafu.pages.dev/tags/mollis-urna/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/mollis-urna/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/mollis-urna/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/mollis-urna/</guid>
       <description></description>
     </item>
     <item>
       <title>Notes</title>
-      <link>https://aafu.pages.dev/tags/notes/</link>
+      <link>https://cahalvaro.github.io/sitio/tags/notes/</link>
       <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://aafu.pages.dev/tags/notes/</guid>
+      <guid>https://cahalvaro.github.io/sitio/tags/notes/</guid>
       <description></description>
     </item>
   </channel>
