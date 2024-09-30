@@ -1,0 +1,5 @@
+<ul style="list-style-type: disc; padding-left: 20px;">
+  {{ range .Site.Params.education.description }}
+    <li class="markdownify">{{ . | markdownify }}</li>
+  {{ end }}
+</ul>

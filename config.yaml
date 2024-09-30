@@ -1,0 +1,127 @@
+baseURL: https://aafu.pages.dev/
+languageCode: es-es
+build:
+  writeStats: true
+params:
+  title: aafu theme
+  author: Darshan Baral
+  description: Website title
+  copyright: >-
+    powered by [hugo](https://gohugo.io/) & deployed on
+    [Cloudflare](https://www.cloudflare.com/)
+  theme:
+    mainTheme: dark
+    showAttribute: true
+    singlePage: false
+  favicons:
+    use: true
+    metas: |2-
+              <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+              <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+              <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+              <link rel="manifest" href="site.webmanifest">
+              <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">
+              <link rel="shortcut icon" href="favicon.ico">
+
+  profile:
+    name: "Alvaro Cahuana Apaza"
+    tagline: Portafolio personal
+    location: "Oruro, Bolivia"
+    photo: perfil1.jpg
+  social:
+    title: Links
+    list:
+      - icon: fab fa-linkedin-in
+        url: "https://www.linkedin.com/in/alvaro-cahuana-apaza-386046330/"
+        title: LinkedIn
+      - icon: fab fa-github
+        url: "https://github.com/cahalvaro"
+        title: GitHub
+      - icon: fab fa-twitter
+        url: "https://x.com/Alvaro733099"
+        title: Twitter
+      - icon: fab fa-facebook
+        url: "https://www.facebook.com/profile.php?id=61566218833492"
+        title: Facebook
+  showInAccordion:
+    - item: aboutme
+    - item: experience
+    - item: education
+    - item: publication
+    - item: project
+    - item: skill
+    - item: hobby
+  aboutme:
+    title: Acerca de
+    icon: fas fa-user
+    photo: inteligencia.jpg
+    description:  
+                  - Soy Alvaro, estudiante de la carrera de Ingeniería Informática en la Facultad Nacional de Ingeniería. Esta página web se ha diseñado para presentar mis proyectos académicos y profesionales, así como las competencias técnicas adquiridas a lo largo de mi formación.
+                  - Mi enfoque se centra en áreas como el desarrollo de software, la automatización, Inteligencia artificial,  la arquitectura de sistemas y la implementación de soluciones innovadoras mediante tecnologías emergentes. A través de este espacio, destaco mis habilidades en lenguajes de programación como C++, Java, Ladder, así como en herramientas y frameworks relevantes.
+                  - Agradezco su visita y espero que este portafolio sea una representación clara de mi potencial y mis aspiraciones en el campo de la tecnología.
+  experience:
+    title: Experiencias
+    icon: fas fa-briefcase
+    list:
+      - position: Mantenimiento City Gates
+        dates:
+        company: PROTEC
+        details: |1-
+          - Mantenimiento de tableros.
+          - Diseño de circuitos y armado de tableros automatizados.
+      - position: Pasantia
+        dates:
+        company: SELA
+        details: |1-
+            - Armado de tableros para bombas sumergibles (Automatizados).
+            - Mantenimiento en campo de pozos.
+            - Mantenimiento de tanques.
+  education:
+    title: Educación
+    icon: fas fa-graduation-cap
+    description:
+            - Bachiller.
+            - Estudiante universitario de Ingenieria Informatica (Desarrollo de Software) en la Facultad Nacional de Ingenieria.
+  publication:
+    title: Publicaciones
+    icon: fas fa-book
+    format:
+      - date
+      - title
+      - authors
+      - journal
+    types:
+      - Articulos de Revistas
+      - Actas
+    list:
+  project:
+    title: Proyectos
+    icon: fas fa-project-diagram
+    list:
+      - title: Canales de Informacion
+        url: "#"
+        description: Consiste en el desarrollo de un software que nos permite calcular la equivocación de canal H(A/B), la transferencia de información I(A:B) y la capacidad del canal C(A:B) dado un numero de simulaciones para poder hallar este último.
+      - title: Tres en raya, nivel basico y medio 
+        url: "#"
+        description: Este proyecto implementa el clásico juego "Tres en Raya" (Tic Tac Toe) en C++, permitiendo a un usuario jugar contra una inteligencia artificial (IA).
+  skill:
+    title: Habilidades
+    panelId: skill-panel
+    icon: fas fa-cogs
+    list:
+      - skill: "C++"
+        skillrating: 50
+      - skill: Java
+        skillrating: 45
+      - skill: Ladder
+        skillrating: 70
+      - skill: SQL Server
+        skillrating: 30
+  hobby:
+    title: Pasatiempos
+    icon: fas fa-gamepad
+    list:
+      - hobby: Juegos
+      - hobby: Musica
+      - hobby: Peliculas
+      - hobby: Deportes

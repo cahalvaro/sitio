@@ -1,0 +1,15 @@
+<div class="w-100 h-100 flex flex-col items-center p-4">
+  <img
+    class="rounded rounded-full"
+    src="{{ `images` | relURL }}/{{ .Site.Params.aboutme.photo }}"
+    alt="{{ .Site.Params.author }}"
+    style="max-width: 250px"
+  />
+  <div class="text-center">
+    {{ range .Site.Params.aboutme.description }}
+      <p class="markdownify" style="text-align: justify;"> 
+        {{ . | markdownify }} <br>
+      </p>
+    {{ end }}
+  </div>
+</div>
