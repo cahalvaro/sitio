@@ -3,7 +3,7 @@ languageCode: es-es
 build:
   writeStats: true
 params:
-  title: aafu theme
+  title: Portafolio
   author: Darshan Baral
   description: Website title
   copyright: >-
