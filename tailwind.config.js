@@ -14,9 +14,9 @@ module.exports = {
   theme: {
     extend: {
       backgroundColor: (theme) => ({
-        darkest: theme(`colors.stone.900`),
-        darker: theme(`colors.stone.800`),
-        dark: theme(`colors.stone.700`),
+        darkest: theme(`colors.sky.950`),
+        darker: theme(`colors.sky.800`),
+        dark: theme(`colors.sky.600`),
       }),
       typography: (theme) => ({
         DEFAULT: {

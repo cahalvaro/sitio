@@ -98,12 +98,12 @@ params:
     title: Proyectos
     icon: fas fa-project-diagram
     list:
-      - title: Canales de Informacion
-        url: "#"
-        description: Consiste en el desarrollo de un software que nos permite calcular la equivocación de canal H(A/B), la transferencia de información I(A:B) y la capacidad del canal C(A:B) dado un numero de simulaciones para poder hallar este último.
-      - title: Tres en raya, nivel basico y medio 
-        url: "#"
-        description: Este proyecto implementa el clásico juego "Tres en Raya" (Tic Tac Toe) en C++, permitiendo a un usuario jugar contra una inteligencia artificial (IA).
+      - title: Primer juego con Pygame-python
+        url: "https://github.com/cahalvaro/PRIMER_JUEG"
+        description: El proyecto consiste en crear un juego 2D utilizando Python y la biblioteca Pygame, que permite manejar gráficos, sonidos y eventos de manera sencilla.
+      - title: Sistema de Banco Python - PyQt6 
+        url: "https://github.com/cahalvaro/PROY_BANCO"
+        description: El proyecto consiste en desarrollar una aplicación de escritorio para la gestión bancaria utilizando Python y PyQt6. La interfaz gráfica permitirá funcionalidades como la creación de cuentas, transferencias y registros de movimientos. Tambien la integracion de una base de datos.
   skill:
     title: Habilidades
     panelId: skill-panel
